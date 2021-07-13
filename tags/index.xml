@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on serd4r&#39;s diary</title>
+    <link>https://serd4r.github.io/tags/</link>
+    <description>Recent content in Tags on serd4r&#39;s diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr</language>
+    <copyright>serd4r</copyright>
+    <lastBuildDate>Fri, 09 Jul 2021 22:05:55 +0300</lastBuildDate><atom:link href="https://serd4r.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>film</title>
+      <link>https://serd4r.github.io/tags/film/</link>
+      <pubDate>Fri, 09 Jul 2021 22:05:55 +0300</pubDate>
+      
+      <guid>https://serd4r.github.io/tags/film/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>günlük</title>
+      <link>https://serd4r.github.io/tags/g%C3%BCnl%C3%BCk/</link>
+      <pubDate>Fri, 09 Jul 2021 22:05:55 +0300</pubDate>
+      
+      <guid>https://serd4r.github.io/tags/g%C3%BCnl%C3%BCk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>https://serd4r.github.io/tags/blog/</link>
+      <pubDate>Mon, 25 Jan 2021 09:52:17 +0300</pubDate>
+      
+      <guid>https://serd4r.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://serd4r.github.io/tags/github/</link>
+      <pubDate>Mon, 25 Jan 2021 09:52:17 +0300</pubDate>
+      
+      <guid>https://serd4r.github.io/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gohugo</title>
+      <link>https://serd4r.github.io/tags/gohugo/</link>
+      <pubDate>Mon, 25 Jan 2021 09:52:17 +0300</pubDate>
+      
+      <guid>https://serd4r.github.io/tags/gohugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>site</title>
+      <link>https://serd4r.github.io/tags/site/</link>
+      <pubDate>Mon, 25 Jan 2021 09:52:17 +0300</pubDate>
+      
+      <guid>https://serd4r.github.io/tags/site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>static</title>
+      <link>https://serd4r.github.io/tags/static/</link>
+      <pubDate>Mon, 25 Jan 2021 09:52:17 +0300</pubDate>
+      
+      <guid>https://serd4r.github.io/tags/static/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statik</title>
+      <link>https://serd4r.github.io/tags/statik/</link>
+      <pubDate>Mon, 25 Jan 2021 09:52:17 +0300</pubDate>
+      
+      <guid>https://serd4r.github.io/tags/statik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anonymity</title>
+      <link>https://serd4r.github.io/tags/anonymity/</link>
+      <pubDate>Sat, 23 Jan 2021 10:08:53 +0300</pubDate>
+      
+      <guid>https://serd4r.github.io/tags/anonymity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gizlilik</title>
+      <link>https://serd4r.github.io/tags/gizlilik/</link>
+      <pubDate>Sat, 23 Jan 2021 10:08:53 +0300</pubDate>
+      
+      <guid>https://serd4r.github.io/tags/gizlilik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>güvenlik</title>
+      <link>https://serd4r.github.io/tags/g%C3%BCvenlik/</link>
+      <pubDate>Sat, 23 Jan 2021 10:08:53 +0300</pubDate>
+      
+      <guid>https://serd4r.github.io/tags/g%C3%BCvenlik/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>internet</title>
+      <link>https://serd4r.github.io/tags/internet/</link>
+      <pubDate>Sat, 23 Jan 2021 10:08:53 +0300</pubDate>
+      
+      <guid>https://serd4r.github.io/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>privacy</title>
+      <link>https://serd4r.github.io/tags/privacy/</link>
+      <pubDate>Sat, 23 Jan 2021 10:08:53 +0300</pubDate>
+      
+      <guid>https://serd4r.github.io/tags/privacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>security</title>
+      <link>https://serd4r.github.io/tags/security/</link>
+      <pubDate>Sat, 23 Jan 2021 10:08:53 +0300</pubDate>
+      
+      <guid>https://serd4r.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tor browser</title>
+      <link>https://serd4r.github.io/tags/tor-browser/</link>
+      <pubDate>Sat, 23 Jan 2021 10:08:53 +0300</pubDate>
+      
+      <guid>https://serd4r.github.io/tags/tor-browser/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
